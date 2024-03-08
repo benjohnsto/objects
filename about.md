@@ -26,7 +26,7 @@ layout: default
 
 <p>Project conceptualization and direction: Soo-Young Kim</p>
 
-<p>This project would not exist without the support of the following people and programs at Princeton University: Ben Johnston and the McGraw Center for Teaching and Learning, David Jenkins and Princeton University Libraries, the Freshman Seminar Program, and the Seeger Center for Hellenic Studies</p> 
+<p>This project would not exist without the support of the following people and programs at Princeton University: Ben Johnston and the McGraw Center for Teaching and Learning, David Jenkins and Princeton University Libraries, the Freshman Seminars Program, and the Seeger Center for Hellenic Studies</p> 
         
     
     </div>
